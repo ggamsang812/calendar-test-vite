@@ -1,4 +1,30 @@
-# React + TypeScript + Vite
+## _This is a demo app for the github-leetcode-component built in Typescript / Vite_
+
+[![Vite Demo Example](https://raw.githubusercontent.com/ggamsang812/calendar-test-vite/master/src/assets/vite-calendar-test.png)]
+
+## Getting Started
+
+Run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## What I did in this demo:
+1. Create vite project 
+2. npm install github-leetcode-component
+3. Add configuration to vite.config.ts
+4. import github-leetcode-component to the App.tsx and use it
+
+**_more detail here: [github-leetcode-component for vite](https://github.com/ggamsang812/github-leetcode-component?tab=readme-ov-file#vite) _**
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
